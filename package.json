@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/AnuragQ/Music-box-pro#readme",
   "dependencies": {
-    "electron": "^9.2.0"
+    "electron": "^9.2.0",
+    "howler": "^2.2.0",
+    "jquery": "^3.5.1"
   }
 }
